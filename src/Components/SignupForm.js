@@ -17,7 +17,8 @@ const signupSchema = z
     mobileNumber: z
       .string()
       .min(10, "Please enter a valid mobile number.")
-      .max(15, "Please enter a valid mobile number."),
+      .max(15, "Please enter a valid mobile number.")
+      .regex(/[0-9]/, "Must contain at least one number."),
     fax: z.string().optional(),
     password: z
       .string()
