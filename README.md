@@ -19,6 +19,8 @@ You may also see any lint errors in the console.
 ![image](https://github.com/Icodesomestuff/React-assessment/assets/155326104/e63cfaab-5faa-48a9-a0b3-dad6263c2f76)
 signup page ![image](https://github.com/Icodesomestuff/React-assessment/assets/155326104/bf9e4e33-9e9a-4b67-9cd0-88bb309e6c89), ![image](https://github.com/Icodesomestuff/React-assessment/assets/155326104/20b8e68f-74f7-48d9-9c07-d71eb9fd4311)
 Login page : ![image](https://github.com/Icodesomestuff/React-assessment/assets/155326104/aaa490c0-2e72-4533-96df-d1e99cf1c6f2)
+Reset Page : ![image](https://github.com/Icodesomestuff/React-assessment/assets/155326104/dcdf3dd3-35fd-45bb-82cc-e53ff7c43c46)
+
 
 Used Taildwind CSS for designing
 
